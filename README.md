@@ -6,9 +6,13 @@
 
 ## Project highligh:
 1.Exploratory Data Analysis(EDA)--- Include visulization/words map/new feature creation.
-2.NLP data process pipeline:Remove punctuation,tokenization, remove stopwords and vectorization by using TF-IDF.¶
+
+2.NLP data process pipeline:Remove punctuation,tokenization, remove stopwords and vectorization by using TF-IDF.
+
 3.Box-Cox transformation for punctuation percentage feature.
+
 4.Fit Random Forest model and Gradient Boosting model by using Grid-search(find the best hyperparameters for models).
+
 5.Select random forest model as the final optimization model throungh considering business need(optimize precision when deal with spam messages).
 
 ## Future Improvement:
